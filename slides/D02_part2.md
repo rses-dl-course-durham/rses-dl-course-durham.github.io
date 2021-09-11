@@ -509,7 +509,7 @@ ML feature engineering rules still apply!
 
 ## Lab 03 a & b: Data augmentation on dogs & cats dataset
 
---- 
+---
 
 # Transfer Learning
 
@@ -567,7 +567,7 @@ Accuracy can be further training the **entire** model, but with a very small lea
 
 ## Lab 04: Transfer learning
 
---- 
+---
 
 # Wrapping up
 

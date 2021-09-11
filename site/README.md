@@ -20,16 +20,16 @@ By the end of this course, participants will be able to:
 ## Part 1: Introduction to Deep Learning & Neural Networks
 
 * <a href="/slides/D01_part1.html" target="_blank">Slides</a>
-* <a target="_blank" href="https://colab.research.google.com/github/rses-dl-course-durham/rses-dl-course-durham.github.io/blob/master/notebooks/python/L01_classifying_images_of_clothing.ipynb"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/32px-Python-logo-notext.svg.png" />Lab 01</a>
+* <a target="_blank" href="https://colab.research.google.com/github/rses-dl-course-durham/rses-dl-course-durham.github.io/blob/master/notebooks/python/L01_classifying_images_of_clothing.ipynb">Lab 01</a>
 
 
 ## Part 2: Convolution, Refining the model & Transfer Learning
 
 * <a href="/slides/D02_part2.html" target="_blank">Slides</a>
-* <a target="_blank" href="https://colab.research.google.com/github/rses-dl-course-durham/rses-dl-course-durham.github.io/blob/master/notebooks/python/L02_image_classification_with_cnn.ipynb"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/32px-Python-logo-notext.svg.png" />Lab 02</a>
-* <a target="_blank" href="https://colab.research.google.com/github/rses-dl-course-durham/rses-dl-course-durham.github.io/blob/master/notebooks/python/L03_C01_dogs_vs_cats_without_augmentation.ipynb"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/32px-Python-logo-notext.svg.png" />Lab 03a</a>
-* <a target="_blank" href="https://colab.research.google.com/github/rses-dl-course-durham/rses-dl-course-durham.github.io/blob/master/notebooks/python/L03_C02_dogs_vs_cats_with_augmentation.ipynb"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/32px-Python-logo-notext.svg.png" />Lab 03b</a>
-* <a target="_blank" href="https://colab.research.google.com/github/rses-dl-course-durham/rses-dl-course-durham.github.io/blob/master/notebooks/python/L04_tensorflow_hub_and_transfer_learning.ipynb"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/32px-Python-logo-notext.svg.png" />Lab 04</a>
+* <a target="_blank" href="https://colab.research.google.com/github/rses-dl-course-durham/rses-dl-course-durham.github.io/blob/master/notebooks/python/L02_image_classification_with_cnn.ipynb">Lab 02</a>
+* <a target="_blank" href="https://colab.research.google.com/github/rses-dl-course-durham/rses-dl-course-durham.github.io/blob/master/notebooks/python/L03_C01_dogs_vs_cats_without_augmentation.ipynb">Lab 03a</a>
+* <a target="_blank" href="https://colab.research.google.com/github/rses-dl-course-durham/rses-dl-course-durham.github.io/blob/master/notebooks/python/L03_C02_dogs_vs_cats_with_augmentation.ipynb">Lab 03b</a>
+* <a target="_blank" href="https://colab.research.google.com/github/rses-dl-course-durham/rses-dl-course-durham.github.io/blob/master/notebooks/python/L04_tensorflow_hub_and_transfer_learning.ipynb">Lab 04</a>
 
 ## Extra Lab 01: Text classification with RNN
 
