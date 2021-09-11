@@ -10,7 +10,7 @@ title: "3. Classification and Convolutional Neural Networks"
 
 All course materials can be found at:
 
-[https://rses-dl-course.github.io/](https://rses-dl-course.github.io/)
+[https://rses-dl-course-durham.github.io/](https://rses-dl-course-durham.github.io/)
 
 ---
 

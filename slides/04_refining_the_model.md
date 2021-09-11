@@ -10,7 +10,7 @@ title: "4. Improving the results of your model"
 
 All course materials can be found at:
 
-[https://rses-dl-course.github.io/](https://rses-dl-course.github.io/)
+[https://rses-dl-course-durham.github.io/](https://rses-dl-course-durham.github.io/)
 
 ---
 

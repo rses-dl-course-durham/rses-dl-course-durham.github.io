@@ -1,6 +1,6 @@
 # Introduction to Deep Learning Course
 
-The contents are hosted by github pages at [https://rses-dl-course.github.io/](https://rses-dl-course.github.io/).
+The contents are hosted by github pages at [https://rses-dl-course-durham.github.io/](https://rses-dl-course-durham.github.io/).
 
 ## This course is built using 
 

@@ -2,7 +2,9 @@
 title: "Introduction to Deep Learning With Tensorflow Keras - Part 1"
 ---
 
-# RSES: Introduction to Deep Learning Course
+# Introduction to Deep Learning With Tensorflow Keras: 
+
+# Part 1
 
 Twin Karmakharm, & Fariba Yousefi
 
@@ -27,14 +29,14 @@ Twin Karmakharm, & Fariba Yousefi
 
 All course materials can be found at:
 
-[https://rses-dl-course.github.io/](https://rses-dl-course.github.io/)
+[https://rses-dl-course-durham.github.io/](https://rses-dl-course-durham.github.io/)
 
 ---
 
 ### Course Schedule
 
 * **10:00-11:30** | 01: Introduction to Deep Leaning and Neural Networks
-* **12:00-13:30** | 02: Refining your neural network model and Wrap up
+* **12:00-13:30** | 02: Convolution, Refining the model & Transfer Learning
   
 ---
 
@@ -1060,15 +1062,5 @@ Several types of cross entropy loss available in `tf.keras`:
 
 ---
 
-# Refining the model
-
----
-
-### Lesson contents
-
-* Visualising the model's performance
-* Strategies to prevent underfitting and overfitting
-* Data augmentation
-
----
+# Continued in Part 2
 
