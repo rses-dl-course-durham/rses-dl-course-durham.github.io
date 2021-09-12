@@ -934,6 +934,36 @@ Classification with neural networks.
 
 ---
 
+### Normalising inputs
+
+It's important to normalise your features! It helps create a smoother loss surface and allow your network to train faster.
+
+<object type="image/svg+xml" data="assets/img/normalisation.svg" style="background: white; width: 80%; height: auto;">
+</object>
+
+---
+
+### Normalising inputs
+
+Especially when there are big differences between the magnitude of your features e.g.:
+* no. of bedrooms  1s-10s
+* floor area ($m^2$) 100s-1000s
+* house price (£) 100,000s-1,000,000s
+
+<object type="image/svg+xml" data="assets/img/normalisation.svg" style="background: white; width: 80%; height: auto;">
+</object>
+
+---
+
+### Don't forget to transform **all** of your inputs
+
+Apply the same transformations e.g. normalisation, mean-shifting to all data coming in to your network 
+and not just on the training set.
+
+Pre-trained models should specify its transformations.
+
+---
+
 # Classification
 
 ---
