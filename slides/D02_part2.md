@@ -350,7 +350,7 @@ Try increasing the model size or complexity, e.g. add nodes, layers or activatio
 <object type="image/svg+xml" data="assets/img/data-fitting.svg" style="background: white; width: 80%; height: auto;">
 </object>
 
-Model learns the function too well and doesn't generalise. Training loss decreases but Validation loss increases. 
+Model learns the data too well and doesn't generalise. Training loss decreases but Validation loss increases. 
 This is a big problem in DL!
 
 ---
@@ -359,7 +359,7 @@ This is a big problem in DL!
 
 <img src="assets/img/lossaccuracy-diverge.png" />
 
-Model learns the function too well and doesn't generalise. Training loss decreases but Validation loss increases. 
+Model learns the data too well and doesn't generalise. Training loss decreases but Validation loss increases. 
 This is a big problem in DL!
 
 ---
