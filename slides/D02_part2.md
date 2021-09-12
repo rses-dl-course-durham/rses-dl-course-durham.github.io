@@ -600,6 +600,7 @@ They can be used for:
 
 * Dimentionality reduction
 * Denoising
+* Anomaly Detection
 
 ---
 
@@ -732,10 +733,6 @@ This is just the start!
 * Use existing libraries - Many exist for object detection, machine translation, etc. 
 * Use pre-trained models or start with existing networks.
 * Version control your code, models, and data (e.g. git, git LFS, dvc, etc.).
-* Various HPC resources available to Sheffield researchers:
-  * [Sharc](https://docs.hpc.shef.ac.uk/en/latest/sharc/index.html) & [Bessemer](https://docs.hpc.shef.ac.uk/en/latest/bessemer/index.html)
-  * [JADE](https://docs.hpc.shef.ac.uk/en/latest/jade.html) & [JADE 2 (Coming soon)](https://docs.hpc.shef.ac.uk/en/latest/jade2.html)
-  * [Bede](https://docs.hpc.shef.ac.uk/en/latest/bede.html)
 
 ---
 
