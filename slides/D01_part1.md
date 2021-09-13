@@ -1092,5 +1092,6 @@ Several types of cross entropy loss available in `tf.keras`:
 
 ---
 
-# Continued in Part 2
+## Continued in Part 2:
+## Convolution, Refining the model & Transfer Learning
 
